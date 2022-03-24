@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DBAlmeida
+- 👀 I’m interested in NodeJS, Javascript, Python, dotNet, Ruby.
+- 🌱 I’m currently learning C/C++ and Java
+- 📫 Contact me:
+- Discord: Doug#7777
